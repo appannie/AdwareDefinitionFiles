@@ -1,0 +1,11 @@
+<AdwareDefinition>
+	<Version>95</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Milton</DefinitionAuthor>
+	<DefinitionSource>https://wikileaks.org/vault7/darkmatter/document/Triton_v1_3_DOC/</DefinitionSource>
+	<Adware>
+		<AdwareName>Triton</AdwareName>
+		<File>/var/spool/uucpd/*</File>
+		<File>/System/Library/LaunchDaemons/com.apple.nis.ypbnd.plist</File>
+	</Adware>
+</AdwareDefinition>
